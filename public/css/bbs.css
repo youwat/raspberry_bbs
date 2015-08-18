@@ -1,0 +1,14 @@
+#id_vote {
+    height:150px;
+    width:550px;
+}
+
+#id_vote_button {
+    margin-left:20px;
+    margin-bottom:20px;
+}
+
+.vote_item.vote_info {
+    font-size:8px;
+    color:"darkgray"
+}
